@@ -1,0 +1,16 @@
+# Environment variables — NEVER commit real keys
+.env
+
+# Dependencies
+node_modules/
+dashboard/node_modules/
+
+# LinkedIn session (contains your cookies)
+data/linkedin-session.json
+
+# PM2 logs
+logs/
+
+# OS
+.DS_Store
+Thumbs.db

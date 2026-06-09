@@ -1,0 +1,20 @@
+{
+  "bookings": [
+    {
+      "id": "book_1780986301702",
+      "leadEmail": "student@internshala.com",
+      "leadName": "Internshala",
+      "slot": {
+        "start": "2026-06-10T05:30:00.000Z",
+        "end": "2026-06-10T06:00:00.000Z",
+        "label": "Wed, 10 Jun · 11:00 AM IST"
+      },
+      "eventId": null,
+      "meetLink": null,
+      "htmlLink": null,
+      "mock": false,
+      "status": "confirmed",
+      "bookedAt": "2026-06-09T06:25:01.702Z"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "alerts": [
+    {
+      "id": "alert_1780989668973",
+      "leadEmail": "teamtwilio@team.twilio.com",
+      "leadName": "Team Twilio",
+      "score": 8,
+      "readiness": "hot",
+      "projectType": "Web application",
+      "budget": null,
+      "timeline": null,
+      "summary": "Test alert fired manually from dashboard",
+      "channels": [
+        {
+          "channel": "email",
+          "status": "sent",
+          "to": "vishaltiwari101999@gmail.com"
+        },
+        {
+          "channel": "whatsapp",
+          "status": "sent",
+          "sid": "SMc5e65f9ad0616272441872e51155bf1d",
+          "to": "+918291569470"
+        }
+      ],
+      "firedAt": "2026-06-09T07:21:08.973Z"
+    }
+  ]
+}

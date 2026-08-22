@@ -132,7 +132,7 @@ async function sendEmailAlert(lead, qualification) {
 
       <a class="action" href="mailto:${lead.email}">Reply to ${lead.name || 'this lead'} now →</a>
     </div>
-    <div class="footer">FreelanceAI Agent · vishaltiwari101999@gmail.com · Mumbai, India</div>
+    <div class="footer">FreelanceAI Agent · vishal.buildss@gmail.com · Mumbai, India</div>
   </div>
 </div>
 </body>

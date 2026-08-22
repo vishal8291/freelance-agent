@@ -208,7 +208,7 @@ export function generateProposalPDF(proposal) {
     doc.fillColor('#ffffff').font('Helvetica-Bold').fontSize(13)
       .text('Ready to get started?', 65, y + 10);
     doc.fillColor(COLORS.accentLight).font('Helvetica').fontSize(10)
-      .text('Reply to this email or WhatsApp +91-XXXXXXXXXX  ·  vishaltiwari101999@gmail.com', 65, y + 28);
+      .text('Reply to this email or WhatsApp +91-XXXXXXXXXX  ·  vishal.buildss@gmail.com', 65, y + 28);
     doc.fillColor(COLORS.muted).fontSize(8)
       .text('github.com/vishal8291  ·  Mumbai, India  ·  Available to start within 24h', 65, y + 44);
 

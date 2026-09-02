@@ -24,7 +24,7 @@ function LinkedInIcon({ size = 16 }) {
   );
 }
 
-const API = "http://localhost:3001/api";
+const API = import.meta.env.VITE_API_URL || "https://freelance-agent-backend.onrender.com/api";
 
 const MOCK_ACTIVITY = [
   { day: "Mon", leads: 2, replies: 5 },
